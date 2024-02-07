@@ -1,5 +1,5 @@
 [package]
-name = "esp-template"
+name = "esp32_transit_tracker"
 version = "0.1.0"
 authors = ["bartoszzak"]
 edition = "2021"
